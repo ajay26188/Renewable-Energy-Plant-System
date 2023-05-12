@@ -1,0 +1,4 @@
+Name,Min Capacity (MW),Max Capacity (MW)
+Solar Panel,100000.0,1.0E7
+Wind Turbine,3000000.0,3.0E7
+Hydro Power,1000000.0,3.0E7
